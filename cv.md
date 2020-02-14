@@ -17,6 +17,9 @@ I am responsible, communicable, have well-developed logical thinking.
 
 ## Education
 * Belarusian State University of Informatics and Radioelectronics
+* Online learning:
+  * (HTML Academy) [https://htmlacademy.ru/profile/id1361187]
+  * (Learn JavaScript) [https://learn.javascript.ru/]
   
 ## English
 A1 - Elementary
