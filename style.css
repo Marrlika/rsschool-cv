@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;; 
+  color: #222222;
+  background-color: #f2f4f6;
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+
+
+
+
+
+
+
+
+
